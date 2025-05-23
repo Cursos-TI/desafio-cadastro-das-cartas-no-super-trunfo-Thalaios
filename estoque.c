@@ -3,8 +3,10 @@
 int main() {
 
     unsigned int produtoA;
-    unsigned int produtoA;
+    unsigned int produtoB;
 
+    float estoqueA;
+    float estoqueB;
 
     float valorA = 20.40;
     float valorB = 20.40;
